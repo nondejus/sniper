@@ -1,7 +1,17 @@
-4 F 0 F   伏 crouch, crawl, lie hidden, conceal
+0
+
+-------    x(4)
+
+2 A 0 1    ⊕
+
+-------    hex
+
+4 F 0 F    伏 crouch, crawl, lie hidden, conceal
 6 4 C A    擊 strike, hit, beat; attack, fight
 9 8 A 0    颠 top, peak, summit; upset
 8 9 8 6    覆 cover; tip over; return; reply
+
+-------    unicode
 
 7 E A 6    约 treaty, agreement, covenant
 7 F F 0    翰 writing brush, pen, pencil
